@@ -1,4 +1,4 @@
-/* Give your page a fun background color */
+
 .background-color {
     background-color: rgb(113, 117, 71);
 }
@@ -27,7 +27,7 @@
 .subheader-text {
     font-family: Arial, Helvetica, sans-serif;
     font-style: bold;
-    padding-left: 12px;
+    padding-left: 10px;
 }
 
 .body-text {
